@@ -22,3 +22,6 @@ In the cloud server study I was in, I've got an idea of developing AI pee examin
   - Nginx
   - Flask
 - AWS
+
+## Link
+https://bit.ly/3idreQD
